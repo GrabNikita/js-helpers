@@ -1,37 +1,56 @@
 {
-  "name": "deadbox583-js-helpers",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "library",
-    "javascript",
-    "utility",
-    "react",
-    "hooks"
-  ],
-  "author": "Grab Nikita",
-  "license": "ISC",
-  "description": "Js library for simple operation.",
-  "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0",
-    "react-router-dom": ">=6.0.0",
-    "i18next": ">=19.0.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
-    "@babel/preset-react": "^7.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GrabNikita/js-helpers"
-  },
-  "bugs": {
-    "url": "https://github.com/GrabNikita/js-helpers/issues"
-  },
-  "homepage": "https://github.com/GrabNikita/js-helpers#readme"
+	"name": "deadbox583-js-helpers",
+	"version": "1.0.1",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"library",
+		"javascript",
+		"utility",
+		"react",
+		"hooks"
+	],
+	"author": "Grab Nikita",
+	"license": "ISC",
+	"description": "Js library for simple operation.",
+	"peerDependencies": {
+		"react": ">=16.8.0",
+		"react-dom": ">=16.8.0",
+		"react-router-dom": ">=6.0.0",
+		"i18next": ">=19.0.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.0.0",
+		"@babel/preset-env": "^7.0.0",
+		"@babel/preset-react": "^7.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GrabNikita/js-helpers"
+	},
+	"bugs": {
+		"url": "https://github.com/GrabNikita/js-helpers/issues"
+	},
+	"homepage": "https://github.com/GrabNikita/js-helpers#readme",
+	"files": [
+		"src/**/*.js",
+		"README.md",
+		"LICENSE"
+	],
+	"exports": {
+		".": {
+			"import": "./src/index.js",
+			"require": "./src/index.js"
+		},
+		"./array": "./src/array.js",
+		"./datetime": "./src/datetime.js",
+		"./file": "./src/file.js",
+		"./hooks": "./src/hooks.js",
+		"./object": "./src/object.js",
+		"./string": "./src/string.js",
+		"./tools": "./src/tools.js",
+		"./user": "./src/user.js"
+	}
 }
