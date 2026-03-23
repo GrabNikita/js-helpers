@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/GrabNikita/js-helpers.svg)](https://www.npmjs.com/package/GrabNikita/js-helpers)
+[![npm version](https://badge.fury.io/js/deadbox583-js-helpers.svg)](https://www.npmjs.com/package/GrabNikita/js-helpers)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![GitHub issues](https://img.shields.io/github/issues/GrabNikita/js-helpers)](https://github.com/GrabNikita/js-helpers/issues)
 [![GitHub stars](https://img.shields.io/github/stars/GrabNikita/js-helpers)](https://github.com/GrabNikita/js-helpers/stargazers)
