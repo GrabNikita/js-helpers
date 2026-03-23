@@ -1,0 +1,29 @@
+{
+  "name": "deadbox583-js-helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "library",
+    "javascript",
+    "utility",
+    "react",
+    "hooks"
+  ],
+  "author": "Grab Nikita",
+  "license": "ISC",
+  "description": "Js library for simple operation.",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "react-router-dom": ">=6.0.0",
+    "i18next": ">=19.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
