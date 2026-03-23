@@ -25,5 +25,13 @@
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrabNikita/js-helpers"
+  },
+  "bugs": {
+    "url": "https://github.com/GrabNikita/js-helpers/issues"
+  },
+  "homepage": "https://github.com/GrabNikita/js-helpers#readme"
 }
