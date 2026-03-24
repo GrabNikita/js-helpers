@@ -1,14 +1,9 @@
-[![npm version](https://badge.fury.io/js/deadbox583-js-helpers.svg)](https://www.npmjs.com/package/GrabNikita/js-helpers)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![GitHub issues](https://img.shields.io/github/issues/GrabNikita/js-helpers)](https://github.com/GrabNikita/js-helpers/issues)
-[![GitHub stars](https://img.shields.io/github/stars/GrabNikita/js-helpers)](https://github.com/GrabNikita/js-helpers/stargazers)
-
 A collection of JavaScript utility functions and React hooks for everyday development tasks.
 
 ## 📦 Installation
 
 ```bash
-npm install deadbox583-js-helpers
+npm install srpporg-js-helpers
 ```
 
 ## Features
@@ -232,10 +227,5 @@ React Router DOM >= 6.0.0 (for useQueryParams hook)
 
 i18next >= 19.0.0 (for useI18nResources hook)
 
-## License
-ISC © Grab Nikita
-
 ## Contact
-GitHub: @deadbox583
-
-npm: deadbox583-js-helpers
+email: nikita.grab@srpp.com.ru

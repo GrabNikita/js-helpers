@@ -1,5 +1,5 @@
 {
-	"name": "deadbox583-js-helpers",
+	"name": "srpporg-js-helpers",
 	"version": "1.0.2",
 	"main": "src/index.js",
 	"scripts": {
@@ -28,16 +28,18 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/GrabNikita/js-helpers"
+		"url": "git+https://gitflic.ru/project/srpporg/js-helpers"
 	},
 	"bugs": {
-		"url": "https://github.com/GrabNikita/js-helpers/issues"
+		"url": "https://gitflic.ru/project/srpporg/js-helpers/issue"
 	},
-	"homepage": "https://github.com/GrabNikita/js-helpers#readme",
+	"homepage": "https://gitflic.ru/project/srpporg/js-helpers",
+	"publishConfig": {
+		"registry": "https://registry.gitflic.ru/project/srpporg/js-helpers/package/-/npm/"
+	},
 	"files": [
 		"src/**/*.js",
-		"README.md",
-		"LICENSE"
+		"README.md"
 	],
 	"exports": {
 		".": {
