@@ -3,7 +3,7 @@ A collection of JavaScript utility functions and React hooks for everyday develo
 ## 📦 Installation
 
 ```bash
-npm install srpporg-js-helpers
+npm install @srpporg/js-helpers
 ```
 
 ## Features
