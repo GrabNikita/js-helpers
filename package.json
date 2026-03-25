@@ -35,7 +35,7 @@
 	},
 	"homepage": "https://gitflic.ru/project/srpporg/js-helpers",
 	"publishConfig": {
-		"registry": "https://registry.gitflic.ru/project/srpporg/js-helpers/package/-/npm/"
+		"registry": "https://registry.gitflic.ru/project/srpporg/registry/package/-/npm/"
 	},
 	"files": [
 		"src/**/*.js",
